@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Practica C#\QuotationClothes\QuotationClothes.Data\bin\Debug\net6.0\QuotationClothes.Data.deps.json
+C:\Users\User\Desktop\Practica C#\QuotationClothes\QuotationClothes.Data\bin\Debug\net6.0\QuotationClothes.Data.runtimeconfig.json
+C:\Users\User\Desktop\Practica C#\QuotationClothes\QuotationClothes.Data\bin\Debug\net6.0\QuotationClothes.Data.dll
+C:\Users\User\Desktop\Practica C#\QuotationClothes\QuotationClothes.Data\bin\Debug\net6.0\QuotationClothes.Data.pdb
+C:\Users\User\Desktop\Practica C#\QuotationClothes\QuotationClothes.Data\bin\Debug\net6.0\QuotationClothes.Entity.dll
+C:\Users\User\Desktop\Practica C#\QuotationClothes\QuotationClothes.Data\bin\Debug\net6.0\QuotationClothes.Entity.pdb
+C:\Users\User\Desktop\Practica C#\QuotationClothes\QuotationClothes.Data\obj\Debug\net6.0\QuotationClothes.Data.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practica C#\QuotationClothes\QuotationClothes.Data\obj\Debug\net6.0\QuotationClothes.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Practica C#\QuotationClothes\QuotationClothes.Data\obj\Debug\net6.0\QuotationClothes.Data.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Practica C#\QuotationClothes\QuotationClothes.Data\obj\Debug\net6.0\QuotationClothes.Data.AssemblyInfo.cs
+C:\Users\User\Desktop\Practica C#\QuotationClothes\QuotationClothes.Data\obj\Debug\net6.0\QuotationClothes.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practica C#\QuotationClothes\QuotationClothes.Data\obj\Debug\net6.0\QuotationClothes.Data.csproj.CopyComplete
+C:\Users\User\Desktop\Practica C#\QuotationClothes\QuotationClothes.Data\obj\Debug\net6.0\QuotationClothes.Data.dll
+C:\Users\User\Desktop\Practica C#\QuotationClothes\QuotationClothes.Data\obj\Debug\net6.0\refint\QuotationClothes.Data.dll
+C:\Users\User\Desktop\Practica C#\QuotationClothes\QuotationClothes.Data\obj\Debug\net6.0\QuotationClothes.Data.pdb
+C:\Users\User\Desktop\Practica C#\QuotationClothes\QuotationClothes.Data\obj\Debug\net6.0\QuotationClothes.Data.genruntimeconfig.cache
+C:\Users\User\Desktop\Practica C#\QuotationClothes\QuotationClothes.Data\obj\Debug\net6.0\ref\QuotationClothes.Data.dll
